@@ -14,8 +14,8 @@ This project contains the technical test for the Backend Engineer (Golang) posit
 ## Installation & Setup
 ##### **1. Clone the repository:**
    ```sh
-   git clone https://github.com/arisatriop/technical-test-indico.git
-   cd technical-test-indico
+   git clone https://github.com/arisatriop/indico.git
+   cd indico
    ```
 
 
