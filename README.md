@@ -20,7 +20,7 @@ This project contains the technical test for the Backend Engineer (Golang) posit
 
 
 
-##### **2. Run .sql query in /docs/sql to create base table**
+##### **2. Run .sql query in ```/docs/sql``` to create base table**
    ```sh
    location.sql 
    orders.sql
@@ -51,4 +51,7 @@ Alternatively, you can run the application using Docker:
 docker compose up
 ```
 
+## API Documentation
+
+The postman collection and environment files can be found in the ```/docs/api``` directory.
 
